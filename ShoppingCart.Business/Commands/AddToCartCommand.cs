@@ -1,8 +1,5 @@
 ﻿using ShoppingCart.Business.Models;
 using ShoppingCart.Business.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShoppingCart.Business.Commands
 {
